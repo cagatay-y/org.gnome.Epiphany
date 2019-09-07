@@ -1,6 +1,6 @@
 app-id: org.gnome.Epiphany
 runtime: org.gnome.Platform
-runtime-version: '3.28'
+runtime-version: '3.32'
 branch: stable
 sdk: org.gnome.Sdk
 command: epiphany
@@ -39,5 +39,5 @@ modules:
     buildsystem: meson
     sources:
       - type: archive
-        url: https://download.gnome.org/sources/epiphany/3.28/epiphany-3.28.3.1.tar.xz
-        sha256: 690546a701f046c5c2b3a092659589ea6e17cb0f9a81ec3fdb3046b00cede6f7
+        url: https://download.gnome.org/sources/epiphany/3.32/epiphany-3.32.5.tar.xz
+        sha256: be9697eeb4d15f0b37bc8771ec0fab1b1cc0fa1b3c627602340972378af744c2
